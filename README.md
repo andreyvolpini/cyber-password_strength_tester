@@ -25,6 +25,7 @@ This tool provides real-time feedback on password quality, helping users create 
 ## Preview
 
 ![alt text](image.png)
+
 ---
 
 ## Project Structure
